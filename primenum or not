@@ -1,0 +1,7 @@
+integer = int(input("enter a number "))
+for each in range(2,integer):
+    if (integer%each) == 0:
+        print("it is not a prime number")
+     
+else:
+    print("its a prime number")
