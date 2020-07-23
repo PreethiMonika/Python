@@ -1,0 +1,4 @@
+value = (input("please enter the name "))
+
+print(value.islower())
+print(value.isupper())
